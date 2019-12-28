@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d41a7f2-1744-4e8b-8333-1de7d890fda1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VCEqnWRx37OemmRfzPGDw7nWCm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="django-rest-react" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="django-rest-react" type="Python.DjangoServer" factoryName="Django server">
+      <module name="django-rest-react" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="first.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.django-rest-react" />
+      <item itemvalue="Python.manage" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d41a7f2-1744-4e8b-8333-1de7d890fda1" name="Default Changelist" comment="" />
+      <created>1576748870253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576748870253</updated>
+      <workItem from="1576748875669" duration="2401000" />
+      <workItem from="1576759707895" duration="1335000" />
+      <workItem from="1577268354495" duration="1794000" />
+      <workItem from="1577271078465" duration="736000" />
+      <workItem from="1577281475011" duration="217000" />
+      <workItem from="1577293690254" duration="1034000" />
+      <workItem from="1577295175726" duration="2057000" />
+      <workItem from="1577351307336" duration="1489000" />
+      <workItem from="1577361086654" duration="1148000" />
+      <workItem from="1577373950449" duration="5170000" />
+      <workItem from="1577440228782" duration="1780000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576749285131">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state x="223" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.43.1536.821@0.43.1536.821" timestamp="1576749285131" />
+    <state x="526" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576749351916">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state x="526" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.43.1536.821@0.43.1536.821" timestamp="1576749351916" />
+    <state x="588" y="208" key="FileChooserDialogImpl" timestamp="1576749604193">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state x="588" y="208" key="FileChooserDialogImpl/0.43.1536.821@0.43.1536.821" timestamp="1576749604193" />
+    <state width="1493" height="165" key="GridCell.Tab.0.bottom" timestamp="1577441598290">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state width="1493" height="165" key="GridCell.Tab.0.bottom/0.43.1536.821@0.43.1536.821" timestamp="1577441598290" />
+    <state width="1493" height="165" key="GridCell.Tab.0.center" timestamp="1577441598289">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state width="1493" height="165" key="GridCell.Tab.0.center/0.43.1536.821@0.43.1536.821" timestamp="1577441598289" />
+    <state width="1493" height="165" key="GridCell.Tab.0.left" timestamp="1577441598288">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state width="1493" height="165" key="GridCell.Tab.0.left/0.43.1536.821@0.43.1536.821" timestamp="1577441598288" />
+    <state width="1493" height="165" key="GridCell.Tab.0.right" timestamp="1577441598290">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state width="1493" height="165" key="GridCell.Tab.0.right/0.43.1536.821@0.43.1536.821" timestamp="1577441598290" />
+    <state x="277" y="95" key="SettingsEditor" timestamp="1577281689038">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state x="277" y="95" key="SettingsEditor/0.43.1536.821@0.43.1536.821" timestamp="1577281689038" />
+    <state x="470" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1576748906380">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state x="470" y="277" key="com.intellij.ide.util.TipDialog/0.43.1536.821@0.43.1536.821" timestamp="1576748906380" />
+    <state x="455" y="299" width="705" height="308" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1576749897814">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state x="455" y="299" width="705" height="308" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.43.1536.821@0.43.1536.821" timestamp="1576749897814" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/django_rest_react$manage.coverage" NAME="manage Coverage Results" MODIFIED="1577441598268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
