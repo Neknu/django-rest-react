@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d573e0b-991d-4bc9-a369-31cb7498f345" name="Default Changelist" comment="" />
+    <list default="true" id="7d573e0b-991d-4bc9-a369-31cb7498f345" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movierater/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/movierater/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1VYv0EbogxZrkX0jMboZSIt5OLC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -82,7 +92,15 @@
       <workItem from="1577446759298" duration="1919000" />
       <workItem from="1577458736801" duration="1881000" />
       <workItem from="1577516266772" duration="5130000" />
-      <workItem from="1577532766700" duration="1600000" />
+      <workItem from="1577532766700" duration="2203000" />
+      <workItem from="1577692818019" duration="2093000" />
+      <workItem from="1577705470396" duration="627000" />
+      <workItem from="1577792011029" duration="620000" />
+      <workItem from="1577899100058" duration="1658000" />
+      <workItem from="1578596933859" duration="2014000" />
+      <workItem from="1578644366115" duration="681000" />
+      <workItem from="1579031554322" duration="252000" />
+      <workItem from="1579032296315" duration="146000" />
     </task>
     <servers />
   </component>
@@ -94,24 +112,24 @@
       <screen x="0" y="43" width="1536" height="821" />
     </state>
     <state x="223" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.43.1536.821@0.43.1536.821" timestamp="1577442797887" />
-    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1577529097884">
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1579079476598">
       <screen x="0" y="43" width="1536" height="821" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.43.1536.821@0.43.1536.821" timestamp="1577529097884" />
-    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1577529097883">
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.43.1536.821@0.43.1536.821" timestamp="1579079476598" />
+    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1579079476598">
       <screen x="0" y="43" width="1536" height="821" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.center/0.43.1536.821@0.43.1536.821" timestamp="1577529097883" />
-    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1577529097883">
+    <state width="1493" height="209" key="GridCell.Tab.0.center/0.43.1536.821@0.43.1536.821" timestamp="1579079476598" />
+    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1579079476598">
       <screen x="0" y="43" width="1536" height="821" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.left/0.43.1536.821@0.43.1536.821" timestamp="1577529097883" />
-    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1577529097884">
+    <state width="1493" height="209" key="GridCell.Tab.0.left/0.43.1536.821@0.43.1536.821" timestamp="1579079476598" />
+    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1579079476598">
       <screen x="0" y="43" width="1536" height="821" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.right/0.43.1536.821@0.43.1536.821" timestamp="1577529097884" />
+    <state width="1493" height="209" key="GridCell.Tab.0.right/0.43.1536.821@0.43.1536.821" timestamp="1579079476598" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/MovieRaterApi$manage.coverage" NAME="manage Coverage Results" MODIFIED="1577532903452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MovieRaterApi$manage.coverage" NAME="manage Coverage Results" MODIFIED="1579032357920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
